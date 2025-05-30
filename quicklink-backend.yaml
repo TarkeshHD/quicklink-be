@@ -27,7 +27,7 @@ spec:
     spec:
       containers:
         - name: quicklink
-          image: prabhudev14/quicklink
+          image: tarkesh852/quicklink-be
           resources:
             requests:
               memory: "256Mi"
