@@ -11,7 +11,7 @@ public class UrlService {
 
 //    private final RedisTemplate<String, Object> redisTemplate;
     private final StringRedisSerializer stringRedisSerializer;
-    private final String baseUrl = "http://localhost:8080/api/url/";
+    private final String baseUrl = "http://3.135.176.30/api/url/";
     private final Map<String, Object> map = new HashMap<>();
 //    private final RedisConfig redisConfig;
 
